@@ -1,0 +1,16 @@
+Instrucciones
+
+1. Abrir la consola, las siguientes instrucciones se ejecutan con comandos.
+--En la consola--
+2. Ir a la carpeta donde se encuentran el makefile y los demás archivos (cd $directorio donde se encuentran las cosas$).
+3. Ingresar make (Para compilar el juego).
+4. Ingresar ./build/Connect4 (Para ejecutar el juego).
+--En el juego--
+5. Ingresar todas las opciones entregadas al menos una vez (Nombres de jugadores y sus fichas).
+6. Para jugar, se debe ingresar un número del 1 al 7, que son las columnas del tablero. 
+7. Al ingresar el número, se mostrará el tablero por primera vez.
+8. El turno del otro jugador empieza y se pide nuevamente el ingreso de la columna.
+--Condiciones de fin del juego--
+9. Gana el que tiene 4 fichas seguidas en horizontal, vertical o diagonal.
+10. Empatan cuando se llena el tablero.
+11. En ambos casos se termina el programa.

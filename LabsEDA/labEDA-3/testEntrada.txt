@@ -1,0 +1,6 @@
+Juan 10
+Pedro 5
+Catalina 7.8
+Adrian 6.7
+Marcela 9.1
+Javiera 8.3
